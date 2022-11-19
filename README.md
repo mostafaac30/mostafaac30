@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ENTLAQA E-Learning Solutions**
 
-- 🌱 I’m currently learning **Flutter - Node.js - problem solving**
+- 🌱 I’m currently learning **Flutter - Node.js**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mostafa-al-mezoury/](https://www.linkedin.com/in/mostafa-al-mezoury/)
 - 📞  available at [WhatsApp](https://wa.me/+201024380419)
